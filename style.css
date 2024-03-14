@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#filters {
+    margin-bottom: 20px;
+}
+
+#filters select, #filters input {
+    margin-right: 10px;
+}
